@@ -10,7 +10,7 @@
   </a>
 </p>
 <div align="center" style="background-color: #f2f2f2; padding: 30px; border-radius: 12px;">
-  <a href="https://badge.fury.io/py/eat">
+  <a href="https://badge.fury.io/py/our">
     <img src="https://badge.fury.io/py/our.svg" alt="PyPI version" />
   </a>
 
