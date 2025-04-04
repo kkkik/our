@@ -1,4 +1,20 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/d9c-PyPI-red" alt="Version Badge">
+  <img src="https://img.shields.io/badge/our.-8A4B295" alt="Description Badge">
+  <br>
+  <a href="https://github.com/kkkik">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub Profile">
+  </a>
+  <a href="https://t.me/pyd9c">
+    <img src="https://img.shields.io/badge/Report%20Issues-Telegram-blue?logo=telegram" alt="Report Issues">
+  </a>
+</p>
+<div align="center" style="background-color: #f2f2f2; padding: 30px; border-radius: 12px;">
+  <a href="https://badge.fury.io/py/eat">
+    <img src="https://badge.fury.io/py/our.svg" alt="PyPI version" />
+  </a>
 
+</div>
 # **Our** - Simple Paste Management
 
 **Our** is a minimalistic Python library for uploading and retrieving pastes with ease. Perfect for storing and sharing your code, notes, or any content.
